@@ -1,5 +1,5 @@
 ### 👋 Hola, Mi nombre es José Manuel y a continuación te dejo información sobre mi: 
-📫 
+📫 Actualmente estoy estudiando un grado superior, ASIR (administracion sistemas informáticos en red)
 <!--
 **JoseLD93/JoseLD93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
