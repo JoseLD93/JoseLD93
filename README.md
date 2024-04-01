@@ -2,6 +2,7 @@
 
 ### Sobre mí:
 
+
 📫 Actualmente estoy estudiando un grado superior de ASIR (Administración de sistemas informaticón en red) y quiero dedicarme a la administración de sistemas y ampliar mi conocimiento hacía ciberseguridad y programación
 <!--
 **JoseLD93/JoseLD93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
