@@ -1,4 +1,4 @@
-## 👋 Hola, Mi nombre es José Manuel! Te dejo infromación sobre mi:
+## 👋 Hola, Mi nombre es José Manuel!
 
 ## Sobre mí:
 
