@@ -1,6 +1,6 @@
-### 👋 Hola, Mi nombre es José Manuel! Te dejo infromación sobre mi:
+## 👋 Hola, Mi nombre es José Manuel! Te dejo infromación sobre mi:
 
-### Sobre mí:
+## Sobre mí:
 
 
 📫 Actualmente estoy estudiando un grado superior de ASIR (Administración de sistemas informaticón en red) y quiero dedicarme a la administración de sistemas y ampliar mi conocimiento hacía ciberseguridad y programación
